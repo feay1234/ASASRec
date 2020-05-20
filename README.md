@@ -10,4 +10,6 @@ Sequential-based Adversarial Optimisation for PersonalisedTop-N Item Recommendat
 **Please cite our SIGIR'20 paper if you use our codes. Thanks!** 
 
 ## Environment Settings
+- python==3.7
+- keras==2.2.4
 - tensorflow==1.14.0
